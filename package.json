@@ -19,7 +19,7 @@
     "ipfs-http-client": "^52.0.5",
     "jszip": "^3.7.1",
     "keyword-mark-element": "^0.1.2",
-    "node-fetch": "2.6.2",
+    "node-fetch": "2.6.7",
     "pretty-bytes": "^5.6.0",
     "querystring-es3": "^0.2.1",
     "replaywebpage": "^1.5.10",
